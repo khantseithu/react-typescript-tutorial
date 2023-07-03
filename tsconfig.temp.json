@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/workspace/react-typescript-tutorial/src/01-introduction/03-navigating-jsx-types.problem.tsx"
+    "/workspace/react-typescript-tutorial/src/02-components/04-typing-components.problem.tsx"
   ]
 }
