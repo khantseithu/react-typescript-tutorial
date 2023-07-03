@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/workspace/react-typescript-tutorial/src/02-components/10-extracting-props-from-custom-components.problem.tsx"
+    "/workspace/react-typescript-tutorial/src/03-hooks/11-use-state.problem.tsx"
   ]
 }
