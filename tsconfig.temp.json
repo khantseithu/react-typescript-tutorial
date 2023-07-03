@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/workspace/react-typescript-tutorial/src/02-components/05-typing-components-as-functions.problem.tsx"
+    "/workspace/react-typescript-tutorial/src/02-components/06-typing-children.problem.tsx"
   ]
 }
