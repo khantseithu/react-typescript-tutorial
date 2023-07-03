@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/workspace/react-typescript-tutorial/src/03-hooks/11-use-state.problem.tsx"
+    "/workspace/react-typescript-tutorial/src/03-hooks/13-use-state-excess-properties.problem.tsx"
   ]
 }
