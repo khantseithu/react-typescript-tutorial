@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/workspace/react-typescript-tutorial/src/02-components/09-html-props-with-one-changed.problem.tsx"
+    "/workspace/react-typescript-tutorial/src/02-components/10-extracting-props-from-custom-components.problem.tsx"
   ]
 }
